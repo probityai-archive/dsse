@@ -1,3 +1,6 @@
+<!-- moved-to-monorepo -->
+> **Moved to [github.com/probityai/agent-evidence/crates/dsse](https://github.com/probityai/agent-evidence/tree/main/crates/dsse).** This repository is archived. Its tags, releases, Actions and Pages keep working.
+
 # dsse
 
 [![crates.io](https://img.shields.io/crates/v/dsse.svg)](https://crates.io/crates/dsse)
