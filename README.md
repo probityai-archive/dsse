@@ -1,5 +1,5 @@
 <!-- moved-to-monorepo -->
-> **Moved to [probityai/agent-evidence/crates/dsse](https://github.com/probityai/agent-evidence/tree/main/crates/dsse). Star and follow it there.** This repository is archived; its tags and releases keep working.
+> **Moved to [probityai/agent-evidence-vectors/crates/dsse](https://github.com/probityai/agent-evidence-vectors/tree/main/crates/dsse). Star and follow it there.** This repository is archived and has no planned delete date; its tags and releases keep working.
 
 # dsse
 
